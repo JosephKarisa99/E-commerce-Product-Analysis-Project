@@ -32,7 +32,8 @@ Highlights revenue contribution by categories and evaluates overall sales effect
 Identifies top-performing products based on revenue, customer ratings, reviews, and sales volume
 
 
-<img width="1250" height="696" alt="image" src="https://github.com/user-attachments/assets/5f727472-057b-4872-a630-29dc4f4bd22d" />
+<img width="1292" height="735" alt="image" src="https://github.com/user-attachments/assets/4fedbda9-0776-4338-978f-cc926c4c1686" />
+
 
 
 **Key Features**
@@ -51,7 +52,8 @@ Identifies top-performing products based on revenue, customer ratings, reviews, 
 
 •	Dynamic KPI reporting 
 
-<img width="1302" height="737" alt="image" src="https://github.com/user-attachments/assets/58a9a413-26e4-4529-8106-eb5c25445b4c" />
+<img width="1250" height="696" alt="image" src="https://github.com/user-attachments/assets/cb4782ff-124b-4658-96f4-96a7271d63de" />
+
 
 **Technologies Used**
 
