@@ -31,6 +31,10 @@ Highlights revenue contribution by categories and evaluates overall sales effect
 
 Identifies top-performing products based on revenue, customer ratings, reviews, and sales volume
 
+
+<img width="1250" height="696" alt="image" src="https://github.com/user-attachments/assets/5f727472-057b-4872-a630-29dc4f4bd22d" />
+
+
 **Key Features**
 
 •	Interactive filtering and slicing
@@ -47,6 +51,8 @@ Identifies top-performing products based on revenue, customer ratings, reviews, 
 
 •	Dynamic KPI reporting 
 
+<img width="1302" height="737" alt="image" src="https://github.com/user-attachments/assets/58a9a413-26e4-4529-8106-eb5c25445b4c" />
+
 **Technologies Used**
 
 •	Microsoft Power BI
@@ -56,9 +62,6 @@ Identifies top-performing products based on revenue, customer ratings, reviews, 
 •	DAX (Data Analysis Expressions) 
 
 •	ChatGPT (AI-assisted analytics and documentation) 
-
-
-<img width="1302" height="737" alt="image" src="https://github.com/user-attachments/assets/58a9a413-26e4-4529-8106-eb5c25445b4c" />
 
 
 **Business Insights Generated**
