@@ -14,20 +14,20 @@ The dashboard leverages data modeling, DAX calculations, and time intelligence f
 
 **Dashboard Pages**
 
-**Executive Summary**
+**1. Executive Summary**
 
 Provides an overview of key performance indicators including revenue, sales volume, customer ratings, and business performance metrics.
 
-**Time Intelligence and Sales Trends**
+**2. Time Intelligence and Sales Trends**
 
 Analyzes monthly and quarterly sales performance, growth trends, seasonality patterns, and revenue progression over time.
 
-**Sales Performance**
+**3. Sales Performance**
 
 Highlights revenue contribution by categories and evaluates overall sales effectiveness.
 
 
-**Product Performance**
+**4. Product Performance**
 
 Identifies top-performing products based on revenue, customer ratings, reviews, and sales volume
 
