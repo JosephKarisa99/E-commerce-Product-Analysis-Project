@@ -15,6 +15,7 @@ The dashboard leverages data modeling, DAX calculations, and time intelligence f
 **Dashboard Pages**
 
 **Executive Summary**
+
 Provides an overview of key performance indicators including revenue, sales volume, customer ratings, and business performance metrics.
 
 **Time Intelligence and Sales Trends**
