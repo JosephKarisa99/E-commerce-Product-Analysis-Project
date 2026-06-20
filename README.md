@@ -1,7 +1,10 @@
 **E-commerce Product Analysis Project**
 
 <img width="1286" height="736" alt="image" src="https://github.com/user-attachments/assets/e43fafdc-7864-4459-b381-18bde0def85b" />
-Project Overview
+
+
+**Project Overview**
+
 This project presents an interactive Power BI dashboard developed to analyze ecommerce sales performance, product trends, customer engagement, and revenue growth.
 The dashboard leverages data modeling, DAX calculations, and time intelligence functions to provide actionable business insights through a user-friendly reporting experience.
 
@@ -46,7 +49,8 @@ Identifies top-performing products based on revenue, customer ratings, reviews, 
 <img width="1302" height="737" alt="image" src="https://github.com/user-attachments/assets/58a9a413-26e4-4529-8106-eb5c25445b4c" />
 
 
-Business Insights Generated
+**Business Insights Generated**
+
 •	Top revenue-generating products 
 •	Best-performing product categories 
 •	Monthly and quarterly sales trends 
