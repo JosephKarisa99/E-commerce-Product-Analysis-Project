@@ -25,6 +25,8 @@ Analyzes monthly and quarterly sales performance, growth trends, seasonality pat
 **Sales Performance**
 
 Highlights revenue contribution by categories and evaluates overall sales effectiveness.
+
+
 **Product Performance**
 
 Identifies top-performing products based on revenue, customer ratings, reviews, and sales volume
