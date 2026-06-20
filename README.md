@@ -1,4 +1,4 @@
-**E-commerce Product Analysis Project**
+**E-COMMERCE PRODUCT ANALYSIS PROJECT**
 
 <img width="1286" height="736" alt="image" src="https://github.com/user-attachments/assets/e43fafdc-7864-4459-b381-18bde0def85b" />
 
