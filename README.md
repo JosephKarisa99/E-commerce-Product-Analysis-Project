@@ -33,19 +33,28 @@ Identifies top-performing products based on revenue, customer ratings, reviews, 
 
 **Key Features**
 
-•	Interactive filtering and slicing 
-•	Time intelligence analysis 
-•	Revenue growth tracking 
-•	Product performance evaluation 
-•	Customer review analysis 
-•	Sales trend monitoring 
+•	Interactive filtering and slicing
+
+•	Time intelligence analysis
+
+•	Revenue growth tracking
+
+•	Product performance evaluation
+
+•	Customer review analysis
+
+•	Sales trend monitoring
+
 •	Dynamic KPI reporting 
 
 **Technologies Used**
 
-•	Microsoft Power BI 
-•	Microsoft Excel 
+•	Microsoft Power BI
+
+•	Microsoft Excel
+
 •	DAX (Data Analysis Expressions) 
+
 •	ChatGPT (AI-assisted analytics and documentation) 
 
 
@@ -55,10 +64,15 @@ Identifies top-performing products based on revenue, customer ratings, reviews, 
 **Business Insights Generated**
 
 •	Top revenue-generating products 
+
 •	Best-performing product categories 
+
 •	Monthly and quarterly sales trends 
+
 •	Customer satisfaction indicators 
+
 •	Seasonal sales behavior 
+
 •	Revenue growth opportunities 
 
 **Author**
