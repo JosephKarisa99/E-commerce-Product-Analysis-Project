@@ -82,4 +82,4 @@ Identifies top-performing products based on revenue, customer ratings, reviews, 
 
 **Author**
 
-**Joseph C. Karisa**
+**Joseph C. Karisa| Data Analyst**
